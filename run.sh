@@ -1,2 +1,2 @@
 #!/bin/bash
-/opt/homebrew/bin/uv run ~/buildbot_streamdeck/worker_status.py
+/opt/homebrew/bin/uv run ~/buildbot_status/worker_status.py
